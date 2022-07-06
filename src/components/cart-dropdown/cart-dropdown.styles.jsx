@@ -30,15 +30,3 @@ export const EmptyMessage = styled.span`
 export const CartButton = styled(BaseButton)`
   margin-top: auto;
 `;
-
-// .cart - dropdown - container {
-
-//   .empty-message {
-//   }
-
-//   .cart-items {
-//   }
-
-//   button {
-//   }
-// }
